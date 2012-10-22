@@ -1,4 +1,4 @@
-smartfile-client-java
-=====================
+This project has moved.
+=======================
 
-This project has moved: https://github.com/smartfile/client-java
+https://github.com/smartfile/client-java
